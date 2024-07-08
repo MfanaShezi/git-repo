@@ -1,0 +1,23 @@
+process of updating remote repository whith local changes
+-check status - (git status)
+-git add filename.txt or git add . (adds all file to staging)
+
+    - git commit -m "commitmessage"
+    - if already code exists in remote first - git pull (gets updates)
+    - git push
+
+check file status
+
+    - git status
+
+Restore changes that have been committed (not pushed )
+
+    - git restore .
+
+restore specific committe file
+
+    - git restore --stage filename
+
+check difference in changes
+
+    - git diff
