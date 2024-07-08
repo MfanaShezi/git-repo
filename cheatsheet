@@ -3,7 +3,7 @@ process of updating remote repository whith local changes
 -git add filename.txt or git add . (adds all file to staging)
 
     - git commit -m "commitmessage"
-    - if already code exists in remote first - git pull (gets updates)
+    - if already code exists in remote repo / e.g)someone made changes first upadate local  - git pull (gets updates)
     - git push
 
 check file status
