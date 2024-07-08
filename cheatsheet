@@ -21,3 +21,7 @@ restore specific committe file
 check difference in changes
 
     - git diff
+
+check hisory/previous commits
+
+    -git log
