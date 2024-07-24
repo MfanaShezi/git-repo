@@ -25,3 +25,10 @@ check difference in changes
 check hisory/previous commits
 
     -git log
+
+check out all branches
+- git branch -a 
+
+Fetch all remote branches
+- git fetch
+
